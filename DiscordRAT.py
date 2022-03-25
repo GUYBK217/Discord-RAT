@@ -1177,4 +1177,4 @@ async def on_message(message):
                 await message.channel.send("[*] Command successfuly executed")  
             else:
                 await message.channel.send("[*] This command requires admin privileges")
-client.run(token)
+client.run(ODI5MzMxODgyODc3Mzg2Nzcz.YG2lgQ.7N2PX0wjr-JeaXgJmZ4KaftBbGw)
